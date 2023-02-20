@@ -2,3 +2,4 @@
 
 ## Enable web support
 flutter config enable web
+flutter create .
