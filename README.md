@@ -10,3 +10,9 @@ Alt + Enter
 ## pubspec.yaml
 assets => for import things
 dev_dependencies =>  for local environment
+
+## expand brackets
+Ctrl + Shift + "+"
+
+## close brackets 
+Ctrl + Shift + "-"
