@@ -16,3 +16,13 @@ Ctrl + Shift + "+"
 
 ## close brackets 
 Ctrl + Shift + "-"
+
+## Quick Boot
+the emulator starts up from the last state just before it was closed.
+
+## Cold boot
+the emulator status up completely from dead  
+
+## scollable
+ListView
+SingleChlildScrollView
