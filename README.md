@@ -6,3 +6,7 @@ flutter create .
 
 ## Short cuts for Android Studio
 Alt + Enter
+
+## pubspec.yaml
+assets => for import things
+dev_dependencies =>  for local environment
